@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4091B54E-A9B8-4025-8A58-E3525443A999</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mrsync-mac</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C5D3FAA5-1986-4DE3-B917-CFD0E8CAA0D2</key>
+		<string>https://github.com/addisonw/mrsync-mac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mrsync-mac.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C5D3FAA5-1986-4DE3-B917-CFD0E8CAA0D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/addisonw/mrsync-mac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C5D3FAA5-1986-4DE3-B917-CFD0E8CAA0D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C5D3FAA5-1986-4DE3-B917-CFD0E8CAA0D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mrsync-mac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
